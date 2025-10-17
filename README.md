@@ -40,7 +40,9 @@ neuro-symbolic-reasoning-llm-prolog/
 ├── README.md                      # This file
 ├── complete_paper.md              # Full paper with bibliography
 ├── paper_statistics.md            # Comprehensive statistics and metrics
-└── temp/                          # Source sections and citations
+├── RELEASE_PUSH.md                # GitHub release documentation
+├── push_to_github.sh              # Automated push script
+└── sections/                      # Source sections and citations
     ├── citations_smt.md           # SMT solvers, temporal reasoning citations
     ├── citations_neurosymbolic.md # Neuro-symbolic AI citations
     ├── citations_xai_logic.md     # XAI and logic programming citations

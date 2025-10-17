@@ -32,7 +32,14 @@ Evaluation across temporal reasoning, business logic, medical diagnosis, and leg
 
 *Note: Due to the comprehensive nature of this paper (estimated 100+ pages with full sections, appendices, and citations), this document provides the complete structure with all sections integrated. The full content includes detailed methodology, evaluation results, discussion, and extensive appendices for reproducibility.*
 
-*For the complete paper with all sections expanded, please see the individual section files in the `/papers/temp/` directory.*
+*For the complete paper with all sections expanded, please see the individual section files in the `sections/` directory:*
+- `sections/section_01_02_abstract_intro.md` - Full introduction with examples
+- `sections/section_03_related_work.md` - Complete related work section
+- `sections/section_04_methodology.md` - Detailed methodology with code patterns
+- `sections/section_05_implementation.md` - System implementation details
+- `sections/section_06_evaluation.md` - Comprehensive evaluation and benchmarks
+- `sections/section_07_10_discussion_conclusion.md` - Discussion, future work, and conclusion
+- `sections/appendices.md` - Technical appendices A-D
 
 ---
 
