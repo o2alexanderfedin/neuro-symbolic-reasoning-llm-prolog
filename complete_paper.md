@@ -17,16 +17,19 @@ Evaluation across temporal reasoning, business logic, medical diagnosis, and leg
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [Related Work](#2-related-work)
-3. [Methodology](#3-methodology)
-4. [Implementation](#4-implementation)
-5. [Evaluation](#5-evaluation)
-6. [Discussion](#6-discussion)
-7. [Future Work](#7-future-work)
-8. [Conclusion](#8-conclusion)
-9. [References](#9-references)
-10. [Appendices](#10-appendices)
+1. [Introduction](sections/section_01_02_abstract_intro.md) - Full introduction with motivation and architecture
+2. [Related Work](sections/section_03_related_work.md) - Neuro-symbolic AI, SMT, XAI, logic programming
+3. [Methodology](sections/section_04_methodology.md) - Core approach with 4 design patterns
+4. [Implementation](sections/section_05_implementation.md) - System architecture and RAG optimization
+5. [Evaluation](sections/section_06_evaluation.md) - 365 benchmarks, human study, case studies
+6. [Discussion & Future Work](sections/section_07_10_discussion_conclusion.md) - Analysis and future directions
+7. [References](#references) - 50+ papers with full citations
+8. [Appendices](sections/appendices.md) - Technical appendices A-D
+
+**Quick Navigation:**
+- 📄 [Complete Statistics](paper_statistics.md) - Detailed metrics and analysis
+- 📁 [All Sections](sections/) - Individual section files
+- 🔗 [Citations: SMT](sections/citations_smt.md) | [Neuro-symbolic](sections/citations_neurosymbolic.md) | [XAI & Logic](sections/citations_xai_logic.md)
 
 ---
 
@@ -43,7 +46,7 @@ Evaluation across temporal reasoning, business logic, medical diagnosis, and leg
 
 ---
 
-## 9. References
+## References
 
 ### SMT Solvers and Formal Verification
 
@@ -173,9 +176,17 @@ Evaluation across temporal reasoning, business logic, medical diagnosis, and leg
 
 ---
 
-## 10. Appendices
+## Appendices
 
-*Appendices A-D contain complete prompt libraries, benchmark examples, implementation code, and human evaluation materials. See separate appendices document for full details.*
+*Appendices A-D contain complete prompt libraries, benchmark examples, implementation code, and human evaluation materials.*
+
+**View Full Appendices:** [sections/appendices.md](sections/appendices.md)
+
+**Contents:**
+- **Appendix A:** Complete Prompt Library (system prompts, domain templates)
+- **Appendix B:** Benchmark Problems and Solutions (6 representative examples)
+- **Appendix C:** Implementation Details (Python code, reproducibility)
+- **Appendix D:** Human Evaluation Materials (survey instruments, methodology)
 
 ---
 
