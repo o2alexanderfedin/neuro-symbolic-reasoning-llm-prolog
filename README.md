@@ -238,7 +238,8 @@ If you use this work, please cite:
 ```bibtex
 @article{self-explaining-reasoning-2025,
   title={Self-Explaining Symbolic Reasoning: LLM-Generated Prolog Predicates with Embedded Justification Chains},
-  author={[Authors]},
+  author={Fedin, Alex},
+  affiliation={AI Hive},
   journal={[Venue]},
   year={2025},
   note={Preprint}
@@ -264,9 +265,9 @@ If you use this work, please cite:
 
 ## 👥 Authors
 
-[Author Names]
-[Affiliations]
-[Contact Information]
+**Alex Fedin**
+AI Hive®
+Email: af@O2.services
 
 ---
 
@@ -279,8 +280,8 @@ This work was generated using Claude Code (Anthropic) and follows academic stand
 ## 📞 Contact
 
 For questions, collaboration, or comments:
-- Email: research@example.com
-- GitHub Issues: [Issues](https://github.com/user/repo/issues)
+- Email: af@O2.services
+- Author: Alex Fedin, AI Hive®
 
 ---
 

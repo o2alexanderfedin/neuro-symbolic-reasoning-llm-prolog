@@ -1,7 +1,8 @@
 # Self-Explaining Symbolic Reasoning: LLM-Generated Prolog Predicates with Embedded Justification Chains
 
-**Author Names**
-**Affiliations**
+**Alex Fedin**
+**AI Hive®**
+af@O2.services
 
 ---
 
@@ -187,5 +188,5 @@ Evaluation across temporal reasoning, business logic, medical diagnosis, and leg
 
 **End of Complete Paper**
 
-*For questions or comments, contact: research@example.com*
-*Repository: https://github.com/user/repo/*
+*For questions or comments, contact: af@O2.services*
+*Author: Alex Fedin, AI Hive®*
