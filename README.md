@@ -266,11 +266,11 @@ If you use this work, please cite:
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+**This work is dual-licensed:**
 
-See the [LICENSE](LICENSE) file for complete details.
+### 1. Public License (Default)
 
-### What This Means:
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**
 
 ✅ **You MAY:**
 - View, read, and study this work
@@ -284,9 +284,26 @@ See the [LICENSE](LICENSE) file for complete details.
 - Implement the methods in commercial products
 - Adapt, remix, or transform this work
 
-📧 **For Commercial Use or Derivatives:** Contact af@O2.services
-
 [View License Details](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+### 2. Commercial License (By Request)
+
+For commercial use, derivative works, or integration into commercial products, alternative licensing terms are available.
+
+**Commercial licensing allows:**
+- ✅ Use in commercial products and services
+- ✅ Create derivative works and modifications
+- ✅ Implement in proprietary systems
+- ✅ Integrate into closed-source software
+- ✅ Adapt and customize for business needs
+
+**Contact for Commercial Licensing:** af@O2.services
+
+We offer flexible licensing terms for enterprises, research institutions, and organizations requiring commercial use or derivative works.
+
+---
+
+See the [LICENSE](LICENSE) file for complete details.
 
 ---
 
