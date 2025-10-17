@@ -2,6 +2,8 @@
 
 **LLM-Generated Prolog Predicates with Embedded Justification Chains**
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 > A novel neuro-symbolic reasoning architecture where Large Language Models generate domain-specific Prolog predicates that embed reasoning justifications directly into their logic.
 
 ---
@@ -262,9 +264,29 @@ If you use this work, please cite:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-**MIT License** - Free to use, modify, and distribute with attribution.
+This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+
+See the [LICENSE](LICENSE) file for complete details.
+
+### What This Means:
+
+✅ **You MAY:**
+- View, read, and study this work
+- Cite this work in academic papers with proper attribution
+- Share the original, unmodified version
+- Reference this work in research
+
+❌ **You MAY NOT:**
+- Use this work or its methods commercially
+- Create modified versions or derivative works
+- Implement the methods in commercial products
+- Adapt, remix, or transform this work
+
+📧 **For Commercial Use or Derivatives:** Contact af@O2.services
+
+[View License Details](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
