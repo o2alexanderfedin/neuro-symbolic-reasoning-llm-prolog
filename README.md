@@ -269,7 +269,7 @@ If you use this work, please cite:
 ## 👥 Authors
 
 **Alex Fedin**
-O2.services & AI Hive®
+AI Hive®
 Email: af@O2.services
 
 ---
