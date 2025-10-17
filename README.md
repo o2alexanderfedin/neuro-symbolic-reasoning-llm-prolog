@@ -262,7 +262,9 @@ If you use this work, please cite:
 
 ## 📄 License
 
-[Choose appropriate license - MIT, Apache 2.0, CC BY 4.0, etc.]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**MIT License** - Free to use, modify, and distribute with attribution.
 
 ---
 
