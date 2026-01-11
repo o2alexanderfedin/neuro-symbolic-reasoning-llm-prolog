@@ -28,7 +28,7 @@ fb55e90 Initial commit: Self-Explaining Symbolic Reasoning paper
 
 #### Option A: Using GitHub CLI (Fastest)
 ```bash
-cd /Users/alexanderfedin/Projects/hapyy/papers/neuro-symbolic-reasoning-llm-prolog
+cd ~/Projects/hapyy/papers/neuro-symbolic-reasoning-llm-prolog
 
 # Create and push repository with release
 gh repo create neuro-symbolic-reasoning-llm-prolog \
@@ -54,7 +54,7 @@ git push origin --tags
 After creating the repository on GitHub, run:
 
 ```bash
-cd /Users/alexanderfedin/Projects/hapyy/papers/neuro-symbolic-reasoning-llm-prolog
+cd ~/Projects/hapyy/papers/neuro-symbolic-reasoning-llm-prolog
 
 # Add remote (replace YOUR_USERNAME with your GitHub username)
 git remote add origin https://github.com/YOUR_USERNAME/neuro-symbolic-reasoning-llm-prolog.git

@@ -3,7 +3,7 @@
 **Project**: Self-Explaining Symbolic Reasoning: LLM-Generated Prolog Predicates with Embedded Justification Chains
 
 **Analysis Date**: October 17, 2025
-**Repository**: `/Users/alexanderfedin/Projects/hapyy/papers/neuro-symbolic-reasoning-llm-prolog`
+**Repository**: `~/Projects/hapyy/papers/neuro-symbolic-reasoning-llm-prolog`
 **AI System**: Claude Code (Anthropic Claude Sonnet 4.5)
 
 ---
